@@ -18,6 +18,20 @@ Python, Pandas, Seaborn, Matplotlib
 - High website visits do not always translate into purchases
 - Household composition influences marketing responsiveness
 
+## Key Visual Insights
+
+### High-Value Customers Drive Campaign Success
+![Spending](images/spending_response.png)
+
+### Income Influences Campaign Response
+![Income](images/income_response.png)
+
+### Key Variable Relationships
+![Correlation](images/correlation.png)
+
+### Digital Engagement vs Purchases
+![Web Behavior](images/web_behavior.png)
+
 ## Business Impact
 These insights help organizations:
 - Improve marketing ROI through targeted campaigns
