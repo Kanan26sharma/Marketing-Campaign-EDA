@@ -21,15 +21,19 @@ Python, Pandas, Seaborn, Matplotlib
 ## Key Visual Insights
 
 ### High-Value Customers Drive Campaign Success
+Customers who responded to the marketing campaign exhibit significantly higher total spending compared to non-responders. This suggests that targeting high-value customers can improve campaign conversion rates and maximize marketing ROI.
 ![Spending](images/spending_response.png)
 
 ### Income Influences Campaign Response
+Income level shows a noticeable impact on campaign responsiveness. Higher-income customers demonstrate a greater likelihood of accepting marketing offers, indicating income as an important feature for predictive targeting strategies.
 ![Income](images/income_response.png)
 
 ### Key Variable Relationships
+Correlation analysis highlights strong relationships between income, total spending, and campaign response. These variables can be leveraged to build predictive models that identify customers with high conversion potential.
 ![Correlation](images/correlation.png)
 
 ### Digital Engagement vs Purchases
+Although higher website engagement indicates customer interest, it does not consistently translate into purchases. This reveals a behavioral gap between browsing and buying, suggesting the need for improved conversion strategies such as personalized recommendations or targeted promotions.
 ![Web Behavior](images/web_behavior.png)
 
 ## Business Impact
